@@ -1,0 +1,8 @@
+CREATE DATABASE base;
+
+USE base;
+
+CREATE TABLE nombre (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    datos VARCHAR(255) NOT NULL
+);
