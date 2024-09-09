@@ -1,0 +1,1 @@
+El [[Puerto]] 443 o tambien conocido como puerto [[HTTPS]] es el estándar para la comunicación segura con los [[Servidor web]], utiliza un cifrado SSL/TLS para cifrar el texto original.

@@ -1,0 +1,1 @@
+Software como Servicio, es un modelo de distribución de software en el que las aplicaciones se ofrecen a través de la nube y se accede a ellas mediante internet sin necesidad de preocuparse de la infraestructura

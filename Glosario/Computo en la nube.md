@@ -1,0 +1,1 @@
+Se basan en el concepto de compartir información, software y recursos de procesamiento bajo demanda en internet, su principal ventaja es que solo pagas lo que usas.

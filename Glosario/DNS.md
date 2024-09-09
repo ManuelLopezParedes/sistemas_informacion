@@ -1,0 +1,1 @@
+Sistema de Nombres de Dominio en español es un componente fundamental de internet que permite traducir los nombres de dominio a direcciones IP, por ejemplo google.com a 171.217.12.238

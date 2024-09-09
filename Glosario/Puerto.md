@@ -1,0 +1,1 @@
+Cada dispositivo conectado a una red tiene un conjunto de puertos disponibles, estos actúan como canales o puntos de acceso para la transmisión y recepción de datos

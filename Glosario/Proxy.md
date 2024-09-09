@@ -1,0 +1,1 @@
+Es un servidor que actúa como un representante entre una conexión y el servidor al que se accede, el proxy oculta tu dirección IP y utiliza su propia para acceder al servidor mejorando la privacidad

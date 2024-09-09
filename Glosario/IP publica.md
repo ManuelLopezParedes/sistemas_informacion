@@ -1,0 +1,1 @@
+Una IP publica es la que te asigna tu proveedor de servicios de internet para identificarte en la red global 

@@ -1,0 +1,1 @@
+Plataforma como Servicio es un modelo de distribución de software en la nube que ofrece un entorno completo de desarrollo e implementación.

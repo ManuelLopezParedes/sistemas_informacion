@@ -1,0 +1,2 @@
+Son ordenadores que permiten almacenar y gestionar información en una red privada, en estos podemos alojar aplicaciones web o ejecutar servicios de bases de datos.
+Las pruebas de entorno local permiten ejecutar aplicaciones en entornos locales como un ordenador pero sin el tiempo y el proceso de despliegue.

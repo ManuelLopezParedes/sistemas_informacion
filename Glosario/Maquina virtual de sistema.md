@@ -1,0 +1,1 @@
+Una computadora virtual es un entorno informático que simula un sistema aislado con su propia CPU, memoria, interfaz de red y almacenamiento que se aloja dentro de una computadora.

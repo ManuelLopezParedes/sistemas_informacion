@@ -1,0 +1,1 @@
+Es un conjunto de reglas y estándares que rigen la comunicación entre dispositivos o sistemas dentro de una red.

@@ -1,0 +1,2 @@
+Es una fotocopia digital de un CD o DVD, crea una copia exacta del contenido de un disco, es útil para hacer respaldos digitales de un CD.
+También son utilizados para crear copias de un sistemas operativos. 

@@ -1,0 +1,1 @@
+Un servidor [[FTP]] ofrece un servicio de acceso al servidor de archivos, aquí es donde se almacena toda la información enviadas por un usuario y que estas sean accesibles para cualquier usuario con los permisos de acceso mediante un [[FTP cliente]].

@@ -1,0 +1,2 @@
+Protocolo de Transferencia de Hipertexto seguro, es la versión segura de [[HTTP]], esta encriptado para aumentar la seguridad de transferencia de datos.
+Cualquier sitio web que requiere credenciales de inicio de sesión debe utilizar HTTPS, las conexiones que utilizan HTTPS se pueden identificar con un candado en la barra de URL.

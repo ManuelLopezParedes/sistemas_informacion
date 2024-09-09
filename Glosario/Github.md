@@ -1,0 +1,1 @@
+GitHub es una plataforma de desarrollo colaborativo que aloja proyectos utilizando el sistema de control de versiones Gi, podemos encontrar repositorios para alojar el código fuente de un programa, permite comparar diferentes versiones, restaurar estados antiguos y fusionar cambios.

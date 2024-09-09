@@ -1,0 +1,1 @@
+Un sistema de control de versiones mantiene un historial completo de todas las versiones de un código, y da la posibilidad de regresar a una versión anterior.

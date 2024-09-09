@@ -1,0 +1,1 @@
+Es un protocolo que permite el acceso seguro y a la administración remota de sistemas informáticos, utiliza técnicas criptográficas para garantizar que todas las comunicaciones entre el cliente y el servidor remoto ocurran de manera encriptada.

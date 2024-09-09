@@ -1,0 +1,1 @@
+El local host es un servidor local que se encuentra en nuestro propio equipo, es un tipo de [[Hosting]] pero solo podemos acceder mediante nuestro dispositivo.

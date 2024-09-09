@@ -1,0 +1,1 @@
+Es una red de área local que conecta dispositivos digitales en un entorno limitado como una casa, oficina o edificio.

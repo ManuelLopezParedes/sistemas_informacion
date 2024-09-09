@@ -1,0 +1,1 @@
+Infraestructura como Servicio, es un modelo de computación en la nube que ofrece recursos esenciales de procesamiento, almacenamiento y redes bajo demanda y pago por uso

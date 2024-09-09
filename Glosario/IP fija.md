@@ -1,0 +1,1 @@
+Estas direcciones IP no cambian y se mantienen constantes para determinados equipos o dispositivos conectados, estas se usan para la configuración de servicios de datos, sitios web o servicios de correo electronico.
